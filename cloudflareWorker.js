@@ -2,7 +2,7 @@ let joinStats = true;  //可選加入統計。加入統計不會收集任何隱�
 let webPath = 'https://raw.githubusercontent.com/jianjianai/NewBingGoGo-Web/master/src/main/resources'; //web页面地址，可以修改成自己的仓库来自定义前端页面
 let serverConfig = {
     "h1": "Welcome to Klnboard",
-    "h2": "bing.klnboard.top",
+    "h2": "Start chatting with Newbing",
     "p":"",
     "firstMessages":[
         "好的，我已清理好板子，可以重新開始了。我可以幫助你探索什麼?",
